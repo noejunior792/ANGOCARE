@@ -1,0 +1,87 @@
+.logotipo {
+    position: absolute;
+    margin-top: -60px;
+    margin-right: -110px;
+    float: left;
+    z-index: 1;
+}
+
+* {
+    font-family: "Arial" !important;
+}
+.tema{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header h2 {
+    font: 11px "Arial" !important;
+    margin: 0px;
+}
+
+
+table {
+    border: 1px solid #000;
+    font: 10px 'Arial' !important;
+    margin-top: 10px;
+}
+
+.table-tri {
+    margin-top: 20px;
+}
+
+td, th {
+    border: 1px solid #000;
+}
+
+table td {
+    padding: 1px 10px;
+}
+
+table th {
+    padding: 1px;
+    text-align: center;
+}
+
+
+h2 {
+    font: 11px "Arial" !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+
+th, td {
+    font-size: 13px;
+    padding: 0;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h1, h3 {
+    font-size: 14px;
+    margin: 2px;
+}
+
+.entidade{
+  margin-left:40% ;
+
+}
+.patrimonio{
+    margin-left:40% ;
+    text-align: left;
+    margin-bottom: 80px;
+}
+.re{
+    margin-left:37% ;
+   
+}
+.pr{
+    margin-left:31% ;
+    margin-top: 150px;
+}
+.p{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
